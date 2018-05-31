@@ -1,3 +1,7 @@
 Twisted>=12.2.0
 argparse>=1.2.1
 pyOpenSSL>=0.13
+
+Please note you may need to use rpcbind arguments if you get into an error
+See: https://github.com/litecoin-project/litecoin/issues/371
+> rpcbind=127.0.0.1
