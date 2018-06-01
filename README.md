@@ -23,4 +23,7 @@ aptitude search boost
 ```
 ### General backups of some of the network configuration files I use on P2Pool for solo-mining.
 
-#### Make sure to use different instance for Dash, and port numbers, but try integrating same IP
+###### Make sure whether the version of P2Pool you are running requires a bitcoind node
+###### *Usually for just Dashd, a BTC node isn't needed
+
+#### I recommend using a different instance for Dash, and port numbers, but try integrating same IP
