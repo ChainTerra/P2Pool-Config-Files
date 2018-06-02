@@ -1,0 +1,5 @@
+--bitcoind-rpc-port Port#
+
+username@ur-Server-1:~/P2Pool python run_p2pool.py --bitcoind-rpc-port 7990
+username@ur-Server-1:~/P2Pool python run_p2pool.py --bitcoind-rpc-port 7990 --net litecoin
+username@ur-Server-1:~/P2Pool python run_p2pool.py --bitcoind-rpc-port 7990 --net litecoin --merged http://dogecoinRPCUSER:DogeCoinRPCPass@localhost:7933
