@@ -27,4 +27,6 @@ aptitude search boost
 ###### *Usually for just Dashd, a BTC node isn't needed
 
 #### I recommend using a different instance for Dash, and port numbers, but try integrating same IP
+```
 ./minerd --url=stratum+tcp://chain-pool.com:7903 --userpass=UserPass.workername:WorkerName
+```
