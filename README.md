@@ -1,7 +1,7 @@
 # P2Pool-Config-Files
 The multiple config files under networks for the daemons I am running
 
-#### Main Dependencies:
+### Main Dependencies:
 
 ```import os
 import shutil
@@ -17,7 +17,7 @@ import py2exe
 #### Dash: https://github.com/justino/p2pool-ui-punchy
 #### Bitcoin: https://github.com/johndoe75/p2pool-node-status
 
-#### Required Libraries
+### Required Libraries
 
 ```
 sudo apt-get install build-essential g++ python-dev autotools-dev libicu-dev build-essential libbz2-dev 
