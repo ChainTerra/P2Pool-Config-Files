@@ -30,3 +30,6 @@ aptitude search boost
 ```
 ./minerd --url=stratum+tcp://chain-pool.com:7903 --userpass=UserPass.workername:WorkerName
 ```
+### Frontends
+Dash: https://github.com/justino/p2pool-ui-punchy
+Bitcoin: https://github.com/johndoe75/p2pool-node-status
