@@ -25,9 +25,8 @@ sudo apt-get install libboost-all-dev
 sudo apt-get install aptitude
 aptitude search boost
 ```
+##### Use the -n command to add to peers incoming connections when running
 ### General backups of some of the network configuration files I use on P2Pool for solo-mining.
-
-||| Use the -n command to add to peers incoming connections when running
 
 ###### Make sure whether the version of P2Pool you are running requires a bitcoind node
 ###### *Usually for just Dashd, a BTC node isn't needed
