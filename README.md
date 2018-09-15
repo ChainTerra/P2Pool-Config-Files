@@ -1,4 +1,4 @@
-# P2Pool-Config-Files
+# P2Pool Config Files
 The multiple config files under networks for the daemons I am running
 
 ### Main Dependencies:
@@ -35,4 +35,4 @@ aptitude search boost
 ```
 ./minerd --url=stratum+tcp://chain-pool.com:7903 --userpass=UserPass.workername:WorkerName
 ```
-#### Network: Jtoomim P2Pool Network
+### Network: Jtoomim P2Pool Network
